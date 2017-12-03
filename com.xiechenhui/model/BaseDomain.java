@@ -1,6 +1,6 @@
 public class BaseDomain {
 	protected Long id;
-	github2
+	github
 	local2
 	github3
 }
